@@ -1,0 +1,13 @@
+@media screen and (max-width: 1200px) {
+    #container div {
+        width: 200px;
+        height: 200px;
+    }    
+}
+
+@media screen and (max-width: 800px) {
+    #container div {
+        width: 150px;
+        height: 150px;
+    }
+}
